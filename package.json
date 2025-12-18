@@ -1,0 +1,15 @@
+{
+  "name": "buildingos-docs",
+  "private": true,
+  "version": "1.0.0",
+  "description": "BuildingOS 软件著作权与使用手册文档站",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  }
+}
+
