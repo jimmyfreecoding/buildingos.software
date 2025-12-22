@@ -38,12 +38,48 @@
 ## 3 系统操作使用
 ### 3.1 用户注册登录
 通过登录入口进入系统，展示角色与权限控制。
-
+![alt text](image-8.png)
+输入正确的账号后登录进入系统首页：
+![alt text](image.png)
 ### 3.2 功能模块操作说明
 - 人员管理：新增、导入、查询与权限绑定
-- 设备管理：设备接入、状态查看与策略下发
+进入人员管理模块，展示所有人员信息：
+![alt text](image-1.png)
+其中左边为组织树：
+![alt text](image-3.png)
+添加企业：
+![alt text](image-4.png)
+添加部门：
+![alt text](image-5.png)
+绑定用户，点击后将二维码发送给用户，用户自行扫描绑定：
+![alt text](image-6.png)
+添加用户，需要在部门选择下进行：
+![alt text](image-7.png)
+- 门禁管理：设备接入、状态查看
+点击菜单运营->楼宇智控->门禁 将看到已经对接的门禁设备，和当前状态
+![alt text](image-2.png)
+- 用户同步：从云端同步人员与设备数据，并同步到门禁系统
+![alt text](image-9.png)
+- 人脸库：新增、删除、查询人脸信息
+![alt text](image-10.png)
+其中可以添加临时用户（用于安保，保洁等临时人员）：
+![alt text](image-11.png)
+- 权限组：新增、删除、查询权限组信息
+![alt text](image-14.png)
+添加新的权限组：
+![alt text](image-13.png)
+- 派梯设置：新增、删除、查询派梯信息
+![alt text](image-15.png)
+添加新的派梯设置：
+![alt text](image-16.png)
+编辑派梯设置：
+![alt text](image-17.png)
 - 通行记录：按时间、人员、设备维度检索与导出
+今日通行：
+![alt text](image-18.png)
+历史通行：
+![alt text](image-19.png)
 - 告警中心：异常通行与设备故障告警处理
-
+![alt text](image-20.png)
 > 截图要求与页数限制同申报规范
 
