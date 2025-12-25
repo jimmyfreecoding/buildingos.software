@@ -2,6 +2,7 @@ export default {
   title: 'BuildingOS 软件著作权文档',
   description: '智能楼宇系列软件著作权、使用手册与源代码模板',
   lang: 'zh-CN',
+  base: '/software/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' }
