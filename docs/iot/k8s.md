@@ -1,28 +1,7 @@
 # BuildingOS AI Kubernetes 规划（v1.34.3）
 
 ## 集群拓扑（推荐）
-
-```mermaid
-flowchart LR
-  subgraph ControlPlane[控制平面（3 Master，HA）]
-    APIServer1(APIServer) --- Controller1(Controller) --- Scheduler1(Scheduler)
-    ETCD1[(etcd-1)] --- ETCD2[(etcd-2)] --- ETCD3[(etcd-3)]
-  end
-
-  subgraph IngressLayer[入口层（1-2 节点）]
-    NGINX[Ingress Controller]
-  end
-
-  subgraph Workers[业务工作节点（4-8）]
-    W1(Worker-1):::w --- W2(Worker-2):::w --- W3(Worker-3):::w --- W4(Worker-4):::w
-  end
-
-  NGINX --> S_web[Service:web:80] --> W1
-  NGINX --> S_backend[Service:backend:3001] --> W2
-  NGINX --> S_emqx[Service:emqx:8083] --> W3
-
-  classDef w fill:#eef,stroke:#66f,stroke-width:1px;
-```
+![alt text](image.png)
 
 - 开发/本地：1 master + 1–2 worker（快速验证，不做 HA）
 - 预生产：3 master（HA）+ 3–4 worker（奇数 master 便于 etcd 选举）
