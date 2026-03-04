@@ -10,7 +10,7 @@
 - [智能楼宇通行系统 buildingos.access](/access/copyright)
 - [智能楼宇空间预约系统 buildingos.reservation](/reservation/copyright)
 - [智能楼宇会议室系统 buildingos.meetingroom](/meetingroom/copyright)
-- [智能楼宇场景编排系统 buildingos.workflow](/workflow/copyright)
+<!-- - [智能楼宇场景编排系统 buildingos.workflow](/workflow/copyright)
 - [智能楼宇运营系统 buildingos.operation](/operation/copyright)
 - [智能楼宇控制系统 buildingos.bms](/bmp/copyright)
 - [智能楼宇大屏系统 buildingos.screen](/screen/copyright)
@@ -23,9 +23,9 @@
 - [智能楼宇统一人脸库系统 buildingos.face](/face/copyright)
 - [智能楼宇物联网边缘网关系统 buildingos.iot](/iot/copyright)
 - [智能楼宇AI感知物联系统 buildingos.visionCount](/visioncount/copyright)
-- [智能楼宇AI智能体系统 buildingos.agent](/agent/copyright)
+- [智能楼宇AI智能体系统 buildingos.agent](/agent/copyright) -->
 - [智能楼宇智能卫生间系统 buildingos.toilet](/toilet/copyright)
-- [智能楼宇智能节能系统 buildingos.green](/green/copyright)
+<!-- - [智能楼宇智能节能系统 buildingos.green](/green/copyright) -->
 
 ## 使用说明
 

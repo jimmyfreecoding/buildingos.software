@@ -43,118 +43,118 @@ export default {
               { text: '源代码', link: '/meetingroom/source' }
             ]
           },
-          {
-            text: '智能楼宇场景编排系统 buildingos.workflow',
-            items: [
-              { text: '软件著作权内容', link: '/workflow/copyright' },
-              { text: '使用手册', link: '/workflow/manual' },
-              { text: '源代码', link: '/workflow/source' }
-            ]
-          },
-          {
-            text: '智能楼宇运营系统 buildingos.operation',
-            items: [
-              { text: '软件著作权内容', link: '/operation/copyright' },
-              { text: '使用手册', link: '/operation/manual' },
-              { text: '源代码', link: '/operation/source' }
-            ]
-          },
-          {
-            text: '智能楼宇控制系统 buildingos.bms',
-            items: [
-              { text: '软件著作权内容', link: '/bmp/copyright' },
-              { text: '使用手册', link: '/bmp/manual' },
-              { text: '源代码', link: '/bmp/source' }
-            ]
-          },
-          {
-            text: '智能楼宇大屏系统 buildingos.screen',
-            items: [
-              { text: '软件著作权内容', link: '/screen/copyright' },
-              { text: '使用手册', link: '/screen/manual' },
-              { text: '源代码', link: '/screen/source' }
-            ]
-          },
-          {
-            text: '智能楼宇会议平板APP buildingos.meetingpad',
-            items: [
-              { text: '软件著作权内容', link: '/meetingpad/copyright' },
-              { text: '使用手册', link: '/meetingpad/manual' },
-              { text: '源代码', link: '/meetingpad/source' }
-            ]
-          },
-          {
-            text: '智能楼宇墙面平板APP buildingos.wallpad',
-            items: [
-              { text: '软件著作权内容', link: '/wallpad/copyright' },
-              { text: '使用手册', link: '/wallpad/manual' },
-              { text: '源代码', link: '/wallpad/source' }
-            ]
-          },
-          {
-            text: '智能楼宇企业微信端 buildingos.wechat',
-            items: [
-              { text: '软件著作权内容', link: '/wechat/copyright' },
-              { text: '使用手册', link: '/wechat/manual' },
-              { text: '源代码', link: '/wechat/source' }
-            ]
-          },
-          {
-            text: '智能楼宇飞书端 buildingos.feishu',
-            items: [
-              { text: '软件著作权内容', link: '/feishu/copyright' },
-              { text: '使用手册', link: '/feishu/manual' },
-              { text: '源代码', link: '/feishu/source' }
-            ]
-          },
-          {
-            text: '智能楼宇钉钉端 buildingos.dingding',
-            items: [
-              { text: '软件著作权内容', link: '/dingding/copyright' },
-              { text: '使用手册', link: '/dingding/manual' },
-              { text: '源代码', link: '/dingding/source' }
-            ]
-          },
-          {
-            text: '智能楼宇小程序端 buildingos.mini',
-            items: [
-              { text: '软件著作权内容', link: '/mini/copyright' },
-              { text: '使用手册', link: '/mini/manual' },
-              { text: '源代码', link: '/mini/source' }
-            ]
-          },
-          {
-            text: '智能楼宇统一人脸库系统 buildingos.face',
-            items: [
-              { text: '软件著作权内容', link: '/face/copyright' },
-              { text: '使用手册', link: '/face/manual' },
-              { text: '源代码', link: '/face/source' }
-            ]
-          },
-          {
-            text: '智能楼宇物联网边缘网关系统 buildingos.iot',
-            items: [
-              { text: '软件著作权内容', link: '/iot/copyright' },
-              { text: '使用手册', link: '/iot/manual' },
-              { text: '源代码', link: '/iot/source' }
-            ]
-          },
-          {
-            text: '智能楼宇AI感知物联系统 buildingos.visionCount',
-            items: [
-              { text: '软件著作权内容', link: '/visioncount/copyright' },
-              { text: '使用手册', link: '/visioncount/manual' },
-              { text: '源代码', link: '/visioncount/source' }
-            ]
-          },
-          {
-            text: '智能楼宇AI智能体系统 buildingos.agent',
-            items: [
-              { text: '软件著作权内容', link: '/agent/copyright' },
-              { text: '使用手册', link: '/agent/manual' },
-              { text: '源代码', link: '/agent/source' }
-            ]
-          },
+          // {
+          //   text: '智能楼宇场景编排系统 buildingos.workflow',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/workflow/copyright' },
+          //     { text: '使用手册', link: '/workflow/manual' },
+          //     { text: '源代码', link: '/workflow/source' }
+          //   ]
+          // },
+          // {
+          //   text: '智能楼宇运营系统 buildingos.operation',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/operation/copyright' },
+          //     { text: '使用手册', link: '/operation/manual' },
+          //     { text: '源代码', link: '/operation/source' }
+          //   ]
+          // },
+          // {
+          //   text: '智能楼宇控制系统 buildingos.bms',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/bmp/copyright' },
+          //     { text: '使用手册', link: '/bmp/manual' },
+          //     { text: '源代码', link: '/bmp/source' }
+          //   ]
+          // },
+          // {
+          //   text: '智能楼宇大屏系统 buildingos.screen',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/screen/copyright' },
+          //     { text: '使用手册', link: '/screen/manual' },
+          //     { text: '源代码', link: '/screen/source' }
+          //   ]
+          // },
+          // {
+          //   text: '智能楼宇会议平板APP buildingos.meetingpad',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/meetingpad/copyright' },
+          //     { text: '使用手册', link: '/meetingpad/manual' },
+          //     { text: '源代码', link: '/meetingpad/source' }
+          //   ]
+          // },
+          // {
+          //   text: '智能楼宇墙面平板APP buildingos.wallpad',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/wallpad/copyright' },
+          //     { text: '使用手册', link: '/wallpad/manual' },
+          //     { text: '源代码', link: '/wallpad/source' }
+          //   ]
+          // },
+          // {
+          //   text: '智能楼宇企业微信端 buildingos.wechat',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/wechat/copyright' },
+          //     { text: '使用手册', link: '/wechat/manual' },
+          //     { text: '源代码', link: '/wechat/source' }
+          //   ]
+          // },
+          // {
+          //   text: '智能楼宇飞书端 buildingos.feishu',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/feishu/copyright' },
+          //     { text: '使用手册', link: '/feishu/manual' },
+          //     { text: '源代码', link: '/feishu/source' }
+          //   ]
+          // },
+          // {
+          //   text: '智能楼宇钉钉端 buildingos.dingding',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/dingding/copyright' },
+          //     { text: '使用手册', link: '/dingding/manual' },
+          //     { text: '源代码', link: '/dingding/source' }
+          //   ]
+          // },
+          // {
+          //   text: '智能楼宇小程序端 buildingos.mini',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/mini/copyright' },
+          //     { text: '使用手册', link: '/mini/manual' },
+          //     { text: '源代码', link: '/mini/source' }
+          //   ]
+          // },
+          // {
+          //   text: '智能楼宇统一人脸库系统 buildingos.face',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/face/copyright' },
+          //     { text: '使用手册', link: '/face/manual' },
+          //     { text: '源代码', link: '/face/source' }
+          //   ]
+          // },
+          // {
+          //   text: '智能楼宇物联网边缘网关系统 buildingos.iot',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/iot/copyright' },
+          //     { text: '使用手册', link: '/iot/manual' },
+          //     { text: '源代码', link: '/iot/source' }
+          //   ]
+          // },
+          // {
+          //   text: '智能楼宇AI感知物联系统 buildingos.visionCount',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/visioncount/copyright' },
+          //     { text: '使用手册', link: '/visioncount/manual' },
+          //     { text: '源代码', link: '/visioncount/source' }
+          //   ]
+          // },
+          // {
+          //   text: '智能楼宇AI智能体系统 buildingos.agent',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/agent/copyright' },
+          //     { text: '使用手册', link: '/agent/manual' },
+          //     { text: '源代码', link: '/agent/source' }
+          //   ]
+          // },
           {
             text: '智能楼宇智能卫生间系统 buildingos.toilet',
             items: [
@@ -162,15 +162,16 @@ export default {
               { text: '使用手册', link: '/toilet/manual' },
               { text: '源代码', link: '/toilet/source' }
             ]
-          },
-          {
-            text: '智能楼宇智能节能系统 buildingos.green',
-            items: [
-              { text: '软件著作权内容', link: '/green/copyright' },
-              { text: '使用手册', link: '/green/manual' },
-              { text: '源代码', link: '/green/source' }
-            ]
           }
+          // ,
+          // {
+          //   text: '智能楼宇智能节能系统 buildingos.green',
+          //   items: [
+          //     { text: '软件著作权内容', link: '/green/copyright' },
+          //     { text: '使用手册', link: '/green/manual' },
+          //     { text: '源代码', link: '/green/source' }
+          //   ]
+          // }
         ]
       }
     ]
