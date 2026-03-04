@@ -1,8 +1,8 @@
-# 软件著作权内容（智能楼宇AI智能体系统 Buildingos.ai.agent）
+# 软件著作权内容（智能楼宇AI智能体系统 buildingos.agent）
 
 ## 软件基本信息
 - 软件全称：智能楼宇AI智能体系统
-- 软件简称：Buildingos.ai.agent
+- 软件简称：buildingos.agent
 - 版本号：V1.0
 
 ## 软件作品说明

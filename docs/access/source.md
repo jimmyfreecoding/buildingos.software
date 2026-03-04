@@ -1,4 +1,4 @@
-# 源代码提交页（智能楼宇通行系统 Buildingos.ai.access）
+# 源代码提交页（智能楼宇通行系统 buildingos.access）
 
 ## 提交要求
 - 连续前30页与后30页，每页≥50行
@@ -2635,7 +2635,7 @@ const crumblist = ref<any>([])
 const getUrl = (url: string) => {
   // console.info(url)
   // console.info(`${import.meta.env.VITE_APP_BASE_URL}${url}`)
-  return `https://buildingos.ai${url}?t=${new Date()}`
+  return `https://buildingos${url}?t=${new Date()}`
   // return `http://10.205.66.4${url}?t=${new Date()}`
 }
 const dialogFormVisible = ref<boolean>(false)
@@ -3067,35 +3067,35 @@ const iconList = [
     icon: 'bank-line',
     imgUrl: 'https://face.gemdale.com/pub/face/20230515/ganlin@gemdalepi.com.jpg',
     title: '何铮',
-    tips: 'jimmy@buildingos.ai',
+    tips: 'jimmy@buildingos',
     link: '',
   },
   {
     icon: 'copyright-line',
     imgUrl: 'https://face.gemdale.com/pub/face/20230515/ganlin@gemdalepi.com.jpg',
     title: '何成',
-    tips: 'hezheng@buildingos.ai',
+    tips: 'hezheng@buildingos',
     link: '',
   },
   {
     icon: 'book-3-line',
     imgUrl: 'https://face.gemdale.com/pub/face/20230515/ganlin@gemdalepi.com.jpg',
     title: '何文革',
-    tips: 'hewg@buildingos.ai',
+    tips: 'hewg@buildingos',
     link: '',
   },
   {
     icon: 'check-double-line',
     imgUrl: 'https://face.gemdale.com/pub/face/20230515/ganlin@gemdalepi.com.jpg',
     title: '何清风',
-    tips: 'heqf@buildingos.ai',
+    tips: 'heqf@buildingos',
     link: '',
   },
   {
     icon: 'codepen-line',
     imgUrl: 'https://face.gemdale.com/pub/face/20230515/ganlin@gemdalepi.com.jpg',
     title: '何骥',
-    tips: 'heji@buildingos.ai',
+    tips: 'heji@buildingos',
     link: '',
   },
 ]

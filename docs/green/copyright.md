@@ -1,8 +1,8 @@
-# 软件著作权内容（智能楼宇智能节能系统 Buildingos.ai.green）
+# 软件著作权内容（智能楼宇智能节能系统 buildingos.green）
 
 ## 软件基本信息
 - 软件全称：智能楼宇智能节能系统
-- 软件简称：Buildingos.ai.green
+- 软件简称：buildingos.green
 - 版本号：V1.0
 
 ## 软件作品说明

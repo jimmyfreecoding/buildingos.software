@@ -1,8 +1,8 @@
-# 软件著作权内容（智能楼宇飞书端 Buildingos.ai.feishu）
+# 软件著作权内容（智能楼宇飞书端 buildingos.feishu）
 
 ## 软件基本信息
 - 软件全称：智能楼宇飞书端
-- 软件简称：Buildingos.ai.feishu
+- 软件简称：buildingos.feishu
 - 版本号：V1.0
 
 ## 软件作品说明

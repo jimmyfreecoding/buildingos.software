@@ -1,8 +1,8 @@
-# 软件著作权内容（智能楼宇物联网边缘网关系统 Buildingos.ai.iot）
+# 软件著作权内容（智能楼宇物联网边缘网关系统 buildingos.iot）
 
 ## 软件基本信息
 - 软件全称：智能楼宇物联网边缘网关系统
-- 软件简称：Buildingos.ai.iot
+- 软件简称：buildingos.iot
 - 版本号：V1.0
 
 ## 软件作品说明

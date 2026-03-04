@@ -1,4 +1,4 @@
-# 源代码提交页（智能楼宇空间预约系统 Buildingos.ai.reservation）
+# 源代码提交页（智能楼宇空间预约系统 buildingos.reservation）
 
 ## 提交要求
 - 连续前30页与后30页，每页≥50行

@@ -1,8 +1,8 @@
-# 软件著作权内容（智能楼宇会议室系统 Buildingos.ai.meetingroom）
+# 软件著作权内容（智能楼宇会议室系统 buildingos.meetingroom）
 
 ## 软件基本信息
 - 软件全称：智能楼宇会议室系统
-- 软件简称：Buildingos.ai.meetingroom
+- 软件简称：buildingos.meetingroom
 - 版本号：V1.0
 
 ## 软件作品说明

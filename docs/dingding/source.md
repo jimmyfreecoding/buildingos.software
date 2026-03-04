@@ -1,4 +1,4 @@
-# 源代码提交页（智能楼宇钉钉端 Buildingos.ai.dingding）
+# 源代码提交页（智能楼宇钉钉端 buildingos.dingding）
 
 ## 提交要求
 - 连续前30页与后30页，每页≥50行

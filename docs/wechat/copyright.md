@@ -1,8 +1,8 @@
-# 软件著作权内容（智能楼宇企业微信端 Buildingos.ai.wechat）
+# 软件著作权内容（智能楼宇企业微信端 buildingos.wechat）
 
 ## 软件基本信息
 - 软件全称：智能楼宇企业微信端
-- 软件简称：Buildingos.ai.wechat
+- 软件简称：buildingos.wechat
 - 版本号：V1.0
 
 ## 软件作品说明

@@ -1,4 +1,4 @@
-# 操作说明（智能楼宇空间预约系统 Buildingos.ai.reservation）
+# 操作说明（智能楼宇空间预约系统 buildingos.reservation）
 
 ## 目录
 1 引言
@@ -14,10 +14,10 @@
 
 ## 1 引言
 ### 1.1 编写目的
-本操作说明书描述《智能楼宇空间预约系统 Buildingos.ai.reservation》的结构、功能与操作方法。
+本操作说明书描述《智能楼宇空间预约系统 buildingos.reservation》的结构、功能与操作方法。
 
 ### 1.2 定义
-- 系统、本系统：指《智能楼宇空间预约系统 Buildingos.ai.reservation》
+- 系统、本系统：指《智能楼宇空间预约系统 buildingos.reservation》
 - 用户：指可以使用本系统的人
 - 权限：指分配给用户的功能与数据访问范围
 

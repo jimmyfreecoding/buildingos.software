@@ -1,8 +1,8 @@
-# 软件著作权内容（智能楼宇AI感知物联系统 Buildingos.ai.visionCount）
+# 软件著作权内容（智能楼宇AI感知物联系统 buildingos.visionCount）
 
 ## 软件基本信息
 - 软件全称：智能楼宇AI感知物联系统
-- 软件简称：Buildingos.ai.visionCount
+- 软件简称：buildingos.visionCount
 - 版本号：V1.0
 
 ## 软件作品说明

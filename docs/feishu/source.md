@@ -1,4 +1,4 @@
-# 源代码提交页（智能楼宇飞书端 Buildingos.ai.feishu）
+# 源代码提交页（智能楼宇飞书端 buildingos.feishu）
 
 ## 提交要求
 - 连续前30页与后30页，每页≥50行

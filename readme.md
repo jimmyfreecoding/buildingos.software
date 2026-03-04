@@ -233,24 +233,24 @@ c：源代码
 注意：源代码中不能有公司名称、个人名称、文件名称。源代码的总数量和申请表中提供的要相符。 
 -----------------------------------------------------------
 6:十五个软件著作权名称：
-智能楼宇访客系统 Buildingos.ai.visitor
-智能楼宇通行系统 Buildingos.ai.access
-智能楼宇空间预约系统 Buildingos.ai.reservation
-智能楼宇会议室系统 Buildingos.ai.meetingroom
-智能楼宇场景编排系统 Buildingos.ai.workflow
-智能楼宇运营系统 Buildingos.ai.operation
-智能楼宇控制系统 Buildingos.ai.bmp
-智能楼宇大屏系统 Buildingos.ai.screen
+智能楼宇访客系统 buildingos.visitor
+智能楼宇通行系统 buildingos.access
+智能楼宇空间预约系统 buildingos.reservation
+智能楼宇会议室系统 buildingos.meetingroom
+智能楼宇场景编排系统 buildingos.workflow
+智能楼宇运营系统 buildingos.operation
+智能楼宇控制系统 buildingos.bmp
+智能楼宇大屏系统 buildingos.screen
 
-智能楼宇会议平板APP Buildingos.ai.meetingpad
-智能楼宇墙面平板APP Buildingos.ai.wallpad
+智能楼宇会议平板APP buildingos.meetingpad
+智能楼宇墙面平板APP buildingos.wallpad
 
-智能楼宇企业微信端 Buildingos.ai.wechat
-智能楼宇飞书端 Buildingos.ai.feishu
-智能楼宇钉钉端 Buildingos.ai.dingding
-智能楼宇小程序端 Buildingos.ai.mini
+智能楼宇企业微信端 buildingos.wechat
+智能楼宇飞书端 buildingos.feishu
+智能楼宇钉钉端 buildingos.dingding
+智能楼宇小程序端 buildingos.mini
 
-智能楼宇统一人脸库系统 Buildingos.ai.face
-智能楼宇物联网边缘网关系统 Buildingos.ai.iot
-智能楼宇AI感知物联系统 Buildingos.ai.visionCount
-智能楼宇AI智能体系统 Buildingos.ai.agent
+智能楼宇统一人脸库系统 buildingos.face
+智能楼宇物联网边缘网关系统 buildingos.iot
+智能楼宇AI感知物联系统 buildingos.visionCount
+智能楼宇AI智能体系统 buildingos.agent

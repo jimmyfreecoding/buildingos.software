@@ -1,4 +1,4 @@
-# 源代码提交页（智能楼宇场景编排系统 Buildingos.ai.workflow）
+# 源代码提交页（智能楼宇场景编排系统 buildingos.workflow）
 
 ## 提交要求
 - 连续前30页与后30页，每页≥50行

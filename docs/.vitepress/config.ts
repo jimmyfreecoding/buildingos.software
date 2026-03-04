@@ -12,7 +12,7 @@ export default {
         text: '智能楼宇系列',
         items: [
           {
-            text: '智能楼宇访客系统 Buildingos.ai.visitor',
+            text: '智能楼宇访客系统 buildingos.visitor',
             items: [
               { text: '软件著作权内容', link: '/visitor/copyright' },
               { text: '使用手册', link: '/visitor/manual' },
@@ -20,7 +20,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇通行系统 Buildingos.ai.access',
+            text: '智能楼宇通行系统 buildingos.access',
             items: [
               { text: '软件著作权内容', link: '/access/copyright' },
               { text: '使用手册', link: '/access/manual' },
@@ -28,7 +28,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇空间预约系统 Buildingos.ai.reservation',
+            text: '智能楼宇空间预约系统 buildingos.reservation',
             items: [
               { text: '软件著作权内容', link: '/reservation/copyright' },
               { text: '使用手册', link: '/reservation/manual' },
@@ -36,7 +36,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇会议室系统 Buildingos.ai.meetingroom',
+            text: '智能楼宇会议室系统 buildingos.meetingroom',
             items: [
               { text: '软件著作权内容', link: '/meetingroom/copyright' },
               { text: '使用手册', link: '/meetingroom/manual' },
@@ -44,7 +44,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇场景编排系统 Buildingos.ai.workflow',
+            text: '智能楼宇场景编排系统 buildingos.workflow',
             items: [
               { text: '软件著作权内容', link: '/workflow/copyright' },
               { text: '使用手册', link: '/workflow/manual' },
@@ -52,7 +52,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇运营系统 Buildingos.ai.operation',
+            text: '智能楼宇运营系统 buildingos.operation',
             items: [
               { text: '软件著作权内容', link: '/operation/copyright' },
               { text: '使用手册', link: '/operation/manual' },
@@ -60,7 +60,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇控制系统 Buildingos.ai.bms',
+            text: '智能楼宇控制系统 buildingos.bms',
             items: [
               { text: '软件著作权内容', link: '/bmp/copyright' },
               { text: '使用手册', link: '/bmp/manual' },
@@ -68,7 +68,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇大屏系统 Buildingos.ai.screen',
+            text: '智能楼宇大屏系统 buildingos.screen',
             items: [
               { text: '软件著作权内容', link: '/screen/copyright' },
               { text: '使用手册', link: '/screen/manual' },
@@ -76,7 +76,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇会议平板APP Buildingos.ai.meetingpad',
+            text: '智能楼宇会议平板APP buildingos.meetingpad',
             items: [
               { text: '软件著作权内容', link: '/meetingpad/copyright' },
               { text: '使用手册', link: '/meetingpad/manual' },
@@ -84,7 +84,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇墙面平板APP Buildingos.ai.wallpad',
+            text: '智能楼宇墙面平板APP buildingos.wallpad',
             items: [
               { text: '软件著作权内容', link: '/wallpad/copyright' },
               { text: '使用手册', link: '/wallpad/manual' },
@@ -92,7 +92,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇企业微信端 Buildingos.ai.wechat',
+            text: '智能楼宇企业微信端 buildingos.wechat',
             items: [
               { text: '软件著作权内容', link: '/wechat/copyright' },
               { text: '使用手册', link: '/wechat/manual' },
@@ -100,7 +100,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇飞书端 Buildingos.ai.feishu',
+            text: '智能楼宇飞书端 buildingos.feishu',
             items: [
               { text: '软件著作权内容', link: '/feishu/copyright' },
               { text: '使用手册', link: '/feishu/manual' },
@@ -108,7 +108,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇钉钉端 Buildingos.ai.dingding',
+            text: '智能楼宇钉钉端 buildingos.dingding',
             items: [
               { text: '软件著作权内容', link: '/dingding/copyright' },
               { text: '使用手册', link: '/dingding/manual' },
@@ -116,7 +116,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇小程序端 Buildingos.ai.mini',
+            text: '智能楼宇小程序端 buildingos.mini',
             items: [
               { text: '软件著作权内容', link: '/mini/copyright' },
               { text: '使用手册', link: '/mini/manual' },
@@ -124,7 +124,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇统一人脸库系统 Buildingos.ai.face',
+            text: '智能楼宇统一人脸库系统 buildingos.face',
             items: [
               { text: '软件著作权内容', link: '/face/copyright' },
               { text: '使用手册', link: '/face/manual' },
@@ -132,7 +132,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇物联网边缘网关系统 Buildingos.ai.iot',
+            text: '智能楼宇物联网边缘网关系统 buildingos.iot',
             items: [
               { text: '软件著作权内容', link: '/iot/copyright' },
               { text: '使用手册', link: '/iot/manual' },
@@ -140,7 +140,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇AI感知物联系统 Buildingos.ai.visionCount',
+            text: '智能楼宇AI感知物联系统 buildingos.visionCount',
             items: [
               { text: '软件著作权内容', link: '/visioncount/copyright' },
               { text: '使用手册', link: '/visioncount/manual' },
@@ -148,7 +148,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇AI智能体系统 Buildingos.ai.agent',
+            text: '智能楼宇AI智能体系统 buildingos.agent',
             items: [
               { text: '软件著作权内容', link: '/agent/copyright' },
               { text: '使用手册', link: '/agent/manual' },
@@ -156,7 +156,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇智能卫生间系统 Buildingos.ai.toilet',
+            text: '智能楼宇智能卫生间系统 buildingos.toilet',
             items: [
               { text: '软件著作权内容', link: '/toilet/copyright' },
               { text: '使用手册', link: '/toilet/manual' },
@@ -164,7 +164,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇智能节能系统 Buildingos.ai.green',
+            text: '智能楼宇智能节能系统 buildingos.green',
             items: [
               { text: '软件著作权内容', link: '/green/copyright' },
               { text: '使用手册', link: '/green/manual' },

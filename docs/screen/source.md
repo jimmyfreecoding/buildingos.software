@@ -1,4 +1,4 @@
-# 源代码提交页（智能楼宇大屏系统 Buildingos.ai.screen）
+# 源代码提交页（智能楼宇大屏系统 buildingos.screen）
 
 ## 提交要求
 - 连续前30页与后30页，每页≥50行

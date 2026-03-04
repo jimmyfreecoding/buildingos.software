@@ -1,8 +1,8 @@
-# 软件著作权内容（智能楼宇钉钉端 Buildingos.ai.dingding）
+# 软件著作权内容（智能楼宇钉钉端 buildingos.dingding）
 
 ## 软件基本信息
 - 软件全称：智能楼宇钉钉端
-- 软件简称：Buildingos.ai.dingding
+- 软件简称：buildingos.dingding
 - 版本号：V1.0
 
 ## 软件作品说明

@@ -1,4 +1,4 @@
-# 源代码提交页（智能楼宇墙面平板APP Buildingos.ai.wallpad）
+# 源代码提交页（智能楼宇墙面平板APP buildingos.wallpad）
 
 ## 提交要求
 - 连续前30页与后30页，每页≥50行

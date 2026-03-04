@@ -1,8 +1,8 @@
-# 软件著作权内容（智能楼宇场景编排系统 Buildingos.ai.workflow）
+# 软件著作权内容（智能楼宇场景编排系统 buildingos.workflow）
 
 ## 软件基本信息
 - 软件全称：智能楼宇场景编排系统
-- 软件简称：Buildingos.ai.workflow
+- 软件简称：buildingos.workflow
 - 版本号：V1.0
 
 ## 软件作品说明

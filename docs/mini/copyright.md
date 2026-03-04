@@ -1,8 +1,8 @@
-# 软件著作权内容（智能楼宇小程序端 Buildingos.ai.mini）
+# 软件著作权内容（智能楼宇小程序端 buildingos.mini）
 
 ## 软件基本信息
 - 软件全称：智能楼宇小程序端
-- 软件简称：Buildingos.ai.mini
+- 软件简称：buildingos.mini
 - 版本号：V1.0
 
 ## 软件作品说明
