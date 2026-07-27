@@ -162,6 +162,54 @@ export default {
               { text: '使用手册', link: '/toilet/manual' },
               { text: '源代码', link: '/toilet/source' }
             ]
+          },
+          {
+            text: '智能工位管理系统 buildingos.workstation',
+            items: [
+              { text: '软件著作权内容', link: '/workstation/copyright' },
+              { text: '使用手册', link: '/workstation/manual' },
+              { text: '源代码', link: '/workstation/source' }
+            ]
+          },
+          {
+            text: '智能楼宇智能停车管理系统 buildingos.parking',
+            items: [
+              { text: '软件著作权内容', link: '/parking/copyright' },
+              { text: '使用手册', link: '/parking/manual' },
+              { text: '源代码', link: '/parking/source' }
+            ]
+          },
+          {
+            text: '智能楼宇智能维护管理系统 buildingos.maintenance',
+            items: [
+              { text: '软件著作权内容', link: '/maintenance/copyright' },
+              { text: '使用手册', link: '/maintenance/manual' },
+              { text: '源代码', link: '/maintenance/source' }
+            ]
+          },
+          {
+            text: '智能楼宇智能绿色能源管理系统 buildingos.green',
+            items: [
+              { text: '软件著作权内容', link: '/green/copyright' },
+              { text: '使用手册', link: '/green/manual' },
+              { text: '源代码', link: '/green/source' }
+            ]
+          },
+          {
+            text: '智能楼宇智慧运营系统 buildingos.ioc',
+            items: [
+              { text: '软件著作权内容', link: '/ioc/copyright' },
+              { text: '使用手册', link: '/ioc/manual' },
+              { text: '源代码', link: '/ioc/source' }
+            ]
+          },
+          {
+            text: '智能楼宇智慧安防管理系统 buildingos.security',
+            items: [
+              { text: '软件著作权内容', link: '/security/copyright' },
+              { text: '使用手册', link: '/security/manual' },
+              { text: '源代码', link: '/security/source' }
+            ]
           }
           // ,
           // {
