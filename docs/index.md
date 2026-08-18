@@ -21,15 +21,16 @@
 - [智能楼宇钉钉端 buildingos.dingding](/dingding/copyright)
 - [智能楼宇小程序端 buildingos.mini](/mini/copyright)
 - [智能楼宇统一人脸库系统 buildingos.face](/face/copyright)
-- [智能楼宇物联网边缘网关系统 buildingos.iot](/iot/copyright)
-- [智能楼宇AI感知物联系统 buildingos.visionCount](/visioncount/copyright)
 - [智能楼宇AI智能体系统 buildingos.agent](/agent/copyright) -->
 - [智能楼宇智能卫生间系统 buildingos.toilet](/toilet/copyright)
+- [智能屏系统 buildingos.pad](/pad/copyright)
+- [智能楼宇AI感知物联系统 buildingos.visionCount](/visioncount/copyright)
+- [智能楼宇物联网边缘网关系统 buildingos.iot](/iot/copyright)
 - [智能工位管理系统 buildingos.workstation](/workstation/copyright)
 - [智能楼宇智能停车管理系统 buildingos.parking](/parking/copyright)
 - [智能楼宇智能维护管理系统 buildingos.maintenance](/maintenance/copyright)
 - [智能楼宇智能绿色能源管理系统 buildingos.green](/green/copyright)
-- [智能楼宇智慧运营系统 buildingos.ioc](/ioc/copyright)
+- [智能楼宇IOC运营系统 buildingos.ioc](/ioc/copyright)
 - [智能楼宇智慧安防管理系统 buildingos.security](/security/copyright)
 <!-- - [智能楼宇智能节能系统 buildingos.green](/green/copyright) -->
 

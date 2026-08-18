@@ -132,22 +132,6 @@ export default {
           //   ]
           // },
           // {
-          //   text: '智能楼宇物联网边缘网关系统 buildingos.iot',
-          //   items: [
-          //     { text: '软件著作权内容', link: '/iot/copyright' },
-          //     { text: '使用手册', link: '/iot/manual' },
-          //     { text: '源代码', link: '/iot/source' }
-          //   ]
-          // },
-          // {
-          //   text: '智能楼宇AI感知物联系统 buildingos.visionCount',
-          //   items: [
-          //     { text: '软件著作权内容', link: '/visioncount/copyright' },
-          //     { text: '使用手册', link: '/visioncount/manual' },
-          //     { text: '源代码', link: '/visioncount/source' }
-          //   ]
-          // },
-          // {
           //   text: '智能楼宇AI智能体系统 buildingos.agent',
           //   items: [
           //     { text: '软件著作权内容', link: '/agent/copyright' },
@@ -161,6 +145,31 @@ export default {
               { text: '软件著作权内容', link: '/toilet/copyright' },
               { text: '使用手册', link: '/toilet/manual' },
               { text: '源代码', link: '/toilet/source' }
+            ]
+          },
+          {
+            text: '智能屏系统 buildingos.pad',
+            items: [
+              { text: '软件著作权内容', link: '/pad/copyright' },
+              { text: '使用手册', link: '/pad/manual' },
+              { text: '源代码', link: '/pad/source' }
+            ]
+          },
+          {
+            text: '智能楼宇AI感知物联系统 buildingos.visionCount',
+            items: [
+              { text: '软件著作权内容', link: '/visioncount/copyright' },
+              { text: '使用手册', link: '/visioncount/manual' },
+              { text: '源代码', link: '/visioncount/source' }
+            ]
+          },
+          {
+            text: '智能楼宇物联网边缘网关系统 buildingos.iot',
+            items: [
+              { text: '软件著作权内容', link: '/iot/copyright' },
+              { text: '使用手册', link: '/iot/manual' },
+              { text: '源代码', link: '/iot/source' },
+              { text: 'K8s 部署说明', link: '/iot/k8s' }
             ]
           },
           {
@@ -196,7 +205,7 @@ export default {
             ]
           },
           {
-            text: '智能楼宇智慧运营系统 buildingos.ioc',
+            text: '智能楼宇IOC运营系统 buildingos.ioc',
             items: [
               { text: '软件著作权内容', link: '/ioc/copyright' },
               { text: '使用手册', link: '/ioc/manual' },

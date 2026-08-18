@@ -1,3 +1,9 @@
 docs/.vitepress/cache/
 docs/.vitepress/
 node_modules/
+devDocs/.mermaid-tool/
+devDocs/__pycache__/
+.claude/
+# 大文件不入库：PDF/DOCX（保留本地，用于交付与汇报）
+*.pdf
+*.docx
